@@ -19,9 +19,6 @@ def create_markdown_file(contact_data, filename):
         f.write("**Notes**\n\n")
         f.write(f"{contact_data.get('Notes', '')}\n\n") 
 
-        f.write("**Prayer Requests**\n\n")  
-        # Placeholder (if you want to include this section)
-
         f.write("**Other**\n\n") 
         # Placeholder for customizable section
 
