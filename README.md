@@ -29,4 +29,4 @@ The script can be modified to extract different contact fields or tailor the Mar
 Feel free to submit pull requests or suggest new features!
 
 ## License
-[Add your license information] 
+MIT License
